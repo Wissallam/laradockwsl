@@ -22,7 +22,7 @@
 
 ### 7.Run Ubuntu and setup user and password 
 ### 8.Install Docker desktop 
-###9.In docker setting General and Ressource : WSl intergration and enable Ubuntu
+### 9.In docker setting General and Ressource : WSl intergration and enable Ubuntu
 
 ### 10.Install windows Terminal from Windows Store
 
