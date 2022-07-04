@@ -11,8 +11,7 @@
 ### 3.Restart Windows
 
 ### 4.Install WSL2 Linux kernel update package for x64 machines :
-
-[https%3A%2F%2Fwslstorestorage.blob.core.windows.net%2Fwslblob%2Fwsl_update_x64.msi&v=rr6AngDpgnM](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGV6ZnI2QVFJemQzYWhOWnBUanpuQ0tDeEd2UXxBQ3Jtc0ttTXlnZmE1Nkt5bEdRcl9zR0JMTmRfczJ0a3FRYW5kX0h2NV9DeGZFSDFNa05hek0yRHY4eFpZZl9sUWJ4cUtaSWIwU0VuQ3FoUk5xVVpKYUxzNFN1MEkxUXg5clpUVTJjczN0RzhRenA5OW12TG9PMA&q=https%3A%2F%2Fwslstorestorage.blob.core.windows.net%2Fwslblob%2Fwsl_update_x64.msi&v=rr6AngDpgnM)
+> https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
 ### 5.Reset WSL as version 2
 
