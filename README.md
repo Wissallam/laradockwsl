@@ -1,7 +1,8 @@
 # Insttal Laravel on docker using sail on Windows 10/11
 
-### 1.Install WSL for windows
 
+### 1.Install WSL for windows
+**Run Powersheel as Administrator**
 > dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 
 ### 2.Install Virtualmachine Platform
@@ -16,12 +17,13 @@
 ### 5.Reset WSL as version 2
 
 >wsl --set-default-version 2
-
+to check
+> wsl -l -v
 ### 6.Install Ubuntu from Windows Store
 
 ### 7.Run Ubuntu and setup user and password 
 ### 7.1 Set ubuntu as default 
->wsl --set-default Ubuntu--22.o4
+>wsl --set-default Ubuntu--xxx
 ### 8.Install Docker desktop 
 ### 9.In docker setting General and Ressource : WSl intergration and enable Ubuntu
 
@@ -41,7 +43,7 @@
 >nano ~/.bashrc
 
 Add the at the end of file :
-> alias sail="bash vendor/bin/sail' 
+> alias sail="bash vendor/bin/sail" 
 > 
 Apply the changes : 
 >. ~/.bashrc
