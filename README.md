@@ -34,7 +34,7 @@
 ### 12.
 >cd ~ 
 ### 13.Install Laravel 
->curl -s  https://laravel.build/test-project  | bash 
+>curl -s  https://laravel.build/name_of_project | bash 
 ### 14.in the browser bar :\wsl$ move to you project folder to check 
 ### 15. cd to the project directory 
 ### 16. 
