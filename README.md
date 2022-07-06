@@ -17,7 +17,7 @@
 ### 5.Reset WSL as version 2
 
 >wsl --set-default-version 2
-to check
+#### to check
 >wsl -l -v
 ### 6.Install Ubuntu from Windows Store
 
