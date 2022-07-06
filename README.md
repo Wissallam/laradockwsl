@@ -18,7 +18,7 @@
 
 >wsl --set-default-version 2
 to check
-> wsl -l -v
+>wsl -l -v
 ### 6.Install Ubuntu from Windows Store
 
 ### 7.Run Ubuntu and setup user and password 
