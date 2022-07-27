@@ -23,7 +23,7 @@
 
 ### 7.Run Ubuntu and setup user and password 
 ### 7.1 Set ubuntu as default 
->wsl --set-default Ubuntu--xxx
+>wsl --set-default Ubuntu-xxx
 ### 8.Install Docker desktop 
 ### 9.In docker setting General and Ressource : WSl intergration and enable Ubuntu
 
